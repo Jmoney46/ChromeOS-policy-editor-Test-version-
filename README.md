@@ -14,25 +14,25 @@ download and edit the newpolicy.json file to your liking, then upload it to gith
 
 step 2:
 
-Open crosh, 
+Open crosh
 
-shell, 
+shell
 
-sudo -i, 
+sudo -i  
 
-cd .. , 
+cd .. 
 
-cd /etc/opt/chrome/policies/, 
+cd /etc/opt/chrome/policies/
 
-Ls, 
+Ls 
 
 cd managed (or whatever it says), 
 
-Ls, 
+curl -o https://raw.githubusercontent.com/StarkMist111960/ChromeOS-policy-editor-Test-version-/refs/heads/main/newpolicy.json (Or your github raw user content)
 
-curl -o https://raw.githubusercontent.com/StarkMist111960/ChromeOS-policy-editor-Test-version-/refs/heads/main/newpolicy.json (Or your github raw user content),
+cat newpolicy.json > policy.json 
 
-cat newpolicy.json > policy.json
+(or if youve already used pollen policy editor): cat newpolicy.json > pollen.json
 
 After this, you should be done. Reload your policies, and check the policies you changed if this did not work, please tell me I will try to help. 
 

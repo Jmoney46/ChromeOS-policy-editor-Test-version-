@@ -28,7 +28,7 @@ Ls
 
 cd managed (or whatever it says), 
 
-curl -o https://raw.githubusercontent.com/StarkMist111960/ChromeOS-policy-editor-Test-version-/refs/heads/main/newpolicy.json (Or your github raw user content)
+curl -O https://raw.githubusercontent.com/StarkMist111960/ChromeOS-policy-editor-Test-version-/refs/heads/main/newpolicy.json (Or your github raw user content)
 
 cat newpolicy.json > policy.json 
 

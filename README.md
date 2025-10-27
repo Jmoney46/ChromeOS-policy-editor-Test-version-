@@ -1,3 +1,5 @@
+This is based heavily on pollen policy editor thank you to rainestorme and associates for much of the code in execution.sh and thanks to Star-destroyer12 for providing the newpolicy.json file. 
+
 IN ORDER TO DO THIS ON A MANAGED CHROMEBOOK, YOU MUST FIRST USE SH1MMER. 
 
 NOTE:

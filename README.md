@@ -10,6 +10,8 @@ NOTE 2:
 
 I do not reccomend using this as it is incomplete, and could possibly get you in trouble or break your chromebook. I am not responsible for any damages, you bring any and all repercussions on yourself the second you begin the procress.
 
+NOTE 3: Also you can use this to make your own chromeos sign in background by changing the "hash" and the image url to the one that you would like.
+
 Step 1:
 
 download and edit the newpolicy.json file to your liking, then upload it to github in a manner similar to this.

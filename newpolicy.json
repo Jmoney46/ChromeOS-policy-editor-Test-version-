@@ -6,9 +6,9 @@
   "AllowDeletingBrowserHistory": true,
   "IncognitoModeAvailability": 0,
   "ForceYouTubeRestrict": 0,
-  "ForceGoogleSafeSearch": false,
+  "ForceGoogleSafeSearch": true,
   "SecondaryGoogleAccountSigninAllowed": true,
-  "AllowDinosaurEasterEgg": true,
+  "AllowDinosaurEasterEgg": false,
   "CACertificateManagementAllowed": 0,
   "ClientCertificateManagementAllowed": 0,
   "CrostiniAllowed": true,
@@ -46,20 +46,20 @@
   "ExtensionSettings": null,
   "CloudExtensionRequestEnabled": null,
   "PinnedLauncherApps": null,
-  "BookmarkBarEnabled": null,
+  "BookmarkBarEnabled": true,
   "LidCloseAction": null,
    "DeviceWallpaperImage": {
                "level": "mandatory",
                "scope": "machine",
                "source": "cloud",
                "value": {
-                  "hash": "8239a0818fa8f46019bc8580fec1735ee348594db59ace493408f1e8818c1396",
-                  "url": "https://storage.googleapis.com/chromeos-mgmt/0gjdgxs2l87432/ChromeOsWallpaper/80df87ef-34dc-42bc-b361-7326d373f3b1"
+                  "hash": "7c12964eb3f596fac92856cfb57dcbf8f4b3047196b2b070cedd11a5c765d910",
+                  "url": "https://thefamilydinnerproject.org/wp-content/uploads/2014/07/Sunday-roast-chicken2-633x326.jpg"
                }
             },
   "ChromeOsLockOnIdleSuspend": null,
   "PowerManagementIdleSettings": null,
-  "ShowFullUrlsInAddressBar": null,
+  "ShowFullUrlsInAddressBar": true,
   "HomepageIsNewTabPage": null,
   "HomepageLocation": null,
   "ShowHomeButton": null,
@@ -101,7 +101,7 @@
   "UserAvatarCustomizationSelectorsEnabled": true,
   "DnsOverHttpsMode": null,
   "EditBookmarksEnabled": true,
-  "JavaScriptBlockedForUrls": [],
+  "JavaScriptBlockedForUrls": false,
   "ReportDeviceBootMode": false,
   "DeviceBlockDevmode": false
 }
